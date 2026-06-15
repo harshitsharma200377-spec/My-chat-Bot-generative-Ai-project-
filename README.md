@@ -47,13 +47,13 @@ https://52hqqwuooxl2kcdwnhvk4g.streamlit.app/
 ## 📸 Screenshots
 
 ### 🏠 Chat Interface
-![Chat Interface](screenshots/chat.png)
+![Chat Interface](screenshot/chat.png)
 
 ### ❓ Question Generator
-![Question Generator](screenshots/questions.png)
+![Question Generator](screenshot/questions.png)
 
 ### 💻 Coding Assistant
-![Coding Assistant](screenshots/coding.png)
+![Coding Assistant](screenshot/coding.png)
 
 ---
 ## 📁 Project Structure
